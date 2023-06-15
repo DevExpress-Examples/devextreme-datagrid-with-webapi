@@ -14,14 +14,14 @@ This example demonstrates how to configure the DataGrid widget to work with remo
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
  ``` text
  git clone https://github.com/DevExpress-Examples/devextreme-datagrid-with-webapi.git
  ```
 
-2. Open the datagrid-webapi/datagrid-webapi.sln solution in Visual Studio 2015 or higher
+2. Open the `datagrid-webapi/datagrid-webapi.sln` solution in Visual Studio 2015 or higher.
 
-3. Build and Run the solution
+3. Build and run the solution.
  
 When the application is running, you can view/filter/sort/group orders, view order details, add/modify/delete orders or order detail items.
 
