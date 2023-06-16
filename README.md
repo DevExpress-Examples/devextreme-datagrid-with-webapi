@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # DataGrid for DevExtreme - How to use DataGrid with a WebAPI
 
-This example demonstrates how to configure the DataGrid widget to work with remote WebAPI data service. In the example, the DataGrid supports the following features:
+This example demonstrates how to configure the DataGrid widget to work with a remote WebAPI data service. In the example, the DataGrid supports the following features:
 
 - Remote Operations (Paging, Sorting, Filtering, Grouping, Summary)
 - Master Detail
@@ -23,7 +23,7 @@ This example demonstrates how to configure the DataGrid widget to work with remo
 
 3. Build and run the solution.
  
-When the application is running, you can view/filter/sort/group orders, view order details, add/modify/delete orders or order detail items.
+When the application is running, you can view/filter/sort/group orders, view order details, and add/modify/delete orders or order detail items.
 
 ## Documentation
 
